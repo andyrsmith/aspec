@@ -1,0 +1,6 @@
+require 'test/unit'
+require './lib/object'
+require './lib/assertion_error'
+require './lib/spec'
+require './lib/example_group'
+require './lib/delayed_assertion'
